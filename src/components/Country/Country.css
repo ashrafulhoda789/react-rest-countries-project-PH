@@ -1,0 +1,19 @@
+.country{
+    border: 2px solid salmon;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+button{
+    padding: 10px;
+    background: black;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+button:active{
+    background: gray;
+}
