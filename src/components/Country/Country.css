@@ -3,7 +3,6 @@
     margin: 20px;
     padding: 20px;
     border-radius: 20px;
-    
 }
 
 button{
@@ -16,4 +15,8 @@ button{
 
 button:active{
     background: gray;
+}
+
+.country-visited{
+    background: aquamarine;
 }
